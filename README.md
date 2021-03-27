@@ -1,4 +1,5 @@
-### Hi there, I'm Saeran! 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=saeran%&fontSize=90)
+
 ## 🐰Profile🐰
 제 깃헙에 온 걸 환영해요! 
 
