@@ -1,23 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=saeran%&fontSize=90)
 
 ## 🐰Profile🐰
-제 깃헙에 온 걸 환영해요! 
-
-저는 데이터사이언스학과 3학년 학부생 박새란이에요🙂
-저는 하고싶은 것이 생기면 도전하고 그 과정에서 성장하고 다시 한번 돌아보며 회고하는 것을 좋아해요.
-제 순간을 어딘가에 저장해두는 아카이빙을 중요하게 생각한답니다. 
-
+ungraduate student in Data Science 
 
 ## 👩‍💻study👩‍💻
-- ML & DL
-- UX
-- SQL
-- SAS
-- PYTHON
-- R
-- C
-- HTML/CSS
-
+ML & DL UX SQL SAS PYTHON R C HTML/CSS
 
 ## ✨Acitivity✨
 - 링커스 대외협력실 8기 2019.08~2019.12
@@ -32,6 +19,7 @@
 - 언더패스 ux분석 3,4기 2020.12~2021.02
 - 자연어 프로젝트 : 텍스트 마이닝을 이용한 강의평가 분석 및 추천 2021.03~
 - SAI 인공지능 동아리 organizer 4th 2021.04~
-- GDG campus staff 2021
+- GDG campus 2021
+- 관광데이터 활용 공모전 장려상 2021.11.09
 
 
