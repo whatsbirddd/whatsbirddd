@@ -1,12 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=saeran%&fontSize=90)
-
-## 🐰Profile🐰
+## 🐰Profile
 ungraduate student in Data Science 
 
-## 👩‍💻study👩‍💻
+## 🐰study
 ML & DL UX SQL SAS PYTHON R C HTML/CSS
 
-## ✨Acitivity✨
+## 🐰Activity
 - 링커스 대외협력실 8기 2019.08~2019.12
 - 세종대학교 데이터사이언스학과 4대 부학생회장 2020.03~2020.12
 - 잇다 3기 코딩연합동아리 2020.09~2020.12
